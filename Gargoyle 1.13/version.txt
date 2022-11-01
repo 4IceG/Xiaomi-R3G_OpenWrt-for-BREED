@@ -1,0 +1,5 @@
+Model: Xiaomi Mi Router 3G
+Platforma: ramips/mt7621
+Pakiety: mipsel_24kc
+Wersja: gargoyle-1.13 (1.13.0.2 / r11430-ecbbb373ed)
+Data: 2022-05-14 08:38:47 UTC

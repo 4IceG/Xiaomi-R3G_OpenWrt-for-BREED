@@ -1,0 +1,5 @@
+Model: Xiaomi Mi Router 3G
+Platforma: ramips/mt7621
+Pakiety: mipsel_24kc
+Wersja: luci-22.03-SNAPSHOT (r19812-5c0c01d226)
+Data: 2022-10-19 19:08:25 UTC
