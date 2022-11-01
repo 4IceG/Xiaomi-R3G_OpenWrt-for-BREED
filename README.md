@@ -1,1 +1,1 @@
-# Xiaomi-R3G_OpenWrt-for-BREED
+# Xiaomi Mi Router 3G (OpenWrt-for-BREED)
